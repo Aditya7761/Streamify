@@ -4,7 +4,7 @@ Highlights:
 - 📹 1-on-1 and Group Video Calls with Screen Sharing & Recording  
 - 🔐 JWT Authentication & Protected Routes  
 - 🌍 Language Exchange Platform with 32 Unique UI Themes  
-- ⚡ Tech Stack: React + Express + MongoDB + TailwindCSS + TanStack Query  
+- ⚡ Tech Stack: React + Express.js + MongoDB + Node.js + TailwindCSS + TanStack Query  
 - 🧠 Global State Management with Zustand  
 - 🚨 Error Handling (Frontend & Backend)  
 - 🚀 Free Deployment  
